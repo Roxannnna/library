@@ -7,7 +7,7 @@ cd /c/Users/roxys/Desktop/workspace/library/
 git pull
 
 # Checkout to branch
-git checkout -b readme_changes origin/readme_changes
+git checkout -b NAZWA_BRANCHA origin/NAZWA_BRANCHA
 
 # After code changes 
 cd /c/Users/roxys/Desktop/workspace/library/

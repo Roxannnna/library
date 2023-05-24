@@ -1,4 +1,4 @@
-package org.example;
+package org.roxannna;
 
 import org.junit.jupiter.api.Test;
 
