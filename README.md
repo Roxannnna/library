@@ -16,7 +16,7 @@ git add .
 git commit -m "Some message"
 git push
 
-# Go to Github and create Pull Request 
+# Go to GitHub and create Pull Request 
 
 # After merge, do:
 git pull
